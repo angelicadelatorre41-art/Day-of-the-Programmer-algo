@@ -1,1 +1,1 @@
-# Day-of-the-Programmer-algo
+# Day-of-the-Programmer-algo This program finds the Day of the Programmer (the 256th day of the year) for a given year in Russia. It handles three cases: Julian calendar (before 1918), the transition year (1918), and the Gregorian calendar (after 1918), adjusting the date based on leap year rules.
